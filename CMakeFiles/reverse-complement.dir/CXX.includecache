@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gkorovkin/projects/reverse-complement/main.cpp
+unordered_map
+-
+iostream
+-
+vector
+-
+deque
+-
+string_view
+-
+
